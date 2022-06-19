@@ -1,2 +1,3 @@
-# Dio_Santander_Bootcamp
- Atividades desenvolvidadas no Santander Bootcamp
+Repositório destinado as atividades desenvolvidas no Bootcamp Santander oferecido pela Dio - Digital Innovation One.
+
+Lista de Projetos
